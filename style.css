@@ -21,9 +21,11 @@ body{
     margin-top: 20px;
     margin-left: 32px;
 }
-.f1 svg{
+.f1 img{
     margin-top: 7.31px;
     margin-right: 13px;
+    width: 14px;
+    height: 9.64px;
 }
 .f1 h1{
     font-family: 'Roboto';
@@ -93,7 +95,7 @@ body{
 .btn button:focus{
     background-color: #F1F1F1;
 }
-.btn svg{
+.btn img{
     margin-right: 11.33;
 }
 .btn p{
@@ -123,7 +125,7 @@ body{
 .btn2 button:focus{
     background-color: #F1F1F1;
 }
-.btn2 svg{
+.btn2 img{
     margin-right: 11.33;
 }
 .btn2 p{
@@ -146,7 +148,7 @@ body{
 .set button:focus{
     background-color: #F1F1F1;
 }
-.svg2 svg{
+.svg2 img{
     margin-left: 18.6px;
 }
 
@@ -435,9 +437,7 @@ margin-right: 12px;
     font-weight: 400;
     font-size: 12px;
 }
-.sharehead{
-    
-}
+.sharehead{}
 .share{
     width: 264px;
     height: 190px;
