@@ -9,7 +9,7 @@ let sec = document.createElement('p');
 hour.className = "timer";
 min.className = "timer";
 sec.className = "timer";
-hour.className
+
 let null_hour = 00; //ЧАСЫ
 let null_min = 00; // МИНУТЫ
 let null_sec = 00; //СЕКУНДЫ
